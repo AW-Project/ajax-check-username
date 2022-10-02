@@ -1,0 +1,40 @@
+body {
+	background: #333;
+	font-size: 16px;
+}
+
+.container {
+	max-width: 500px;
+	background: #8c4fe7;
+	color: #ffffff;
+	padding: 20px;
+	margin: 100px auto;
+	border-radius: 10px;
+}
+
+label {
+	display: inline-block;
+	width: 100px;
+}
+
+button {
+	background-color: #5f2aaf;
+	border: none;
+	color: white;
+	padding: 10px 25px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	border-radius: 10px;
+}
+
+input {
+	border: none;
+	border-radius: 5px;
+}
+
+#pesan {
+	margin-left: 10px;
+	font-size: 12px;
+}
